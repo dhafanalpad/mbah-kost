@@ -1,0 +1,286 @@
+[
+  {
+    "id": "realtime-jakarta-001",
+    "nama": "Kos Exclusive Putri Kemang",
+    "alamat": "Jl. Kemang Raya No. 123, Kebayoran Baru, Jakarta Selatan",
+    "harga": 1800000,
+    "jarak_km": 2.3,
+    "fasilitas": [
+      "WiFi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Spring Bed",
+      "Lemari",
+      "Meja Belajar",
+      "Smart TV",
+      "Kulkas Mini",
+      "CCTV Security",
+      "Deket MRT"
+    ],
+    "tipe": "Putri",
+    "tersedia": true,
+    "sumber": "Mamikos",
+    "sourceUrl": "https://mamikos.com/kos/kos-exclusive-putri-kemang-jakarta-selatan-12345",
+    "latitude": -6.261493,
+    "longitude": 106.8106,
+    "images": [
+      "https://images.unsplash.com/photo-1522771731443-4a6f2d3fbc4c?w=800&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817d7e3ef7?w=800&q=80"
+    ],
+    "rating": 4.7,
+    "kontak": "6281288888888",
+    "deskripsi": "Kos exclusive putri di kawasan elite Kemang Jakarta. Dilengkapi dengan fasilitas premium dan keamanan 24 jam. Dekat dengan Universitas Indonesia dan berbagai pusat perbelanjaan.",
+    "whatsapp": "https://wa.me/6281288888888",
+    "kecamatan": "Kebayoran Baru",
+    "kota": "Jakarta Selatan",
+    "provinsi": "DKI Jakarta",
+    "dekat_kampus": [
+      "Universitas Indonesia",
+      "BINUS University",
+      "Atma Jaya University"
+    ],
+    "dekat_mall": [
+      "Kemang Village",
+      "Pondok Indah Mall",
+      "Senayan City"
+    ],
+    "dekat_transport": [
+      "TransJakarta",
+      "MRT Jakarta",
+      "Go-Jek/Grab"
+    ],
+    "biaya_tambahan": [
+      "Listrik: Rp 200.000/bulan",
+      "WiFi: Rp 150.000/bulan",
+      "Keamanan: Rp 100.000/bulan"
+    ],
+    "peraturan": [
+      "Tidak boleh membawa tamu lawan jenis ke kamar",
+      "Tidak boleh merokok di dalam kamar",
+      "Wajib menjaga kebersihan kamar dan lingkungan"
+    ],
+    "keunggulan": [
+      "Lokasi sangat strategis dekat kampus dan tempat belanja",
+      "Lingkungan aman dengan CCTV 24 jam",
+      "Fasilitas lengkap siap huni tanpa perlu beli perabot"
+    ]
+  },
+  {
+    "id": "realtime-bandung-001",
+    "nama": "Kos Asri Putra Dago",
+    "alamat": "Jl. Ir. H. Djuanda No. 45, Coblong, Bandung",
+    "harga": 1200000,
+    "jarak_km": 1.8,
+    "fasilitas": [
+      "WiFi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Spring Bed",
+      "Lemari",
+      "Meja Belajar",
+      "Dispenser",
+      "Kursi Gaming",
+      "Deket Kampus",
+      "Deket PVJ"
+    ],
+    "tipe": "Putra",
+    "tersedia": true,
+    "sumber": "OLX",
+    "sourceUrl": "https://olx.co.id/item/kos-asri-putra-dago-bandung-iid-123456789",
+    "latitude": -6.890898,
+    "longitude": 107.6101,
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-60b36390c4de?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708329358-968a97250483?w=800&q=80",
+      "https://images.unsplash.com/photo-1507089947367-2c5e2e8c2cca?w=800&q=80"
+    ],
+    "rating": 4.5,
+    "kontak": "6282288888888",
+    "deskripsi": "Kos asri putra di kawasan Dago Bandung. Lingkungan tenang dan asri, cocok untuk mahasiswa ITB dan Unpad. Fasilitas lengkap dengan harga terjangkau.",
+    "whatsapp": "https://wa.me/6282288888888",
+    "kecamatan": "Coblong",
+    "kota": "Bandung",
+    "provinsi": "Jawa Barat",
+    "dekat_kampus": [
+      "ITB",
+      "Universitas Padjadjaran",
+      "Universitas Kristen Maranatha"
+    ],
+    "dekat_mall": [
+      "Paris Van Java",
+      "Bandung Indah Plaza",
+      "Trans Studio Mall"
+    ],
+    "dekat_transport": [
+      "Angkot",
+      "Trans Bandung Raya",
+      "Go-Jek/Grab"
+    ],
+    "biaya_tambahan": [
+      "Listrik: Rp 150.000/bulan",
+      "WiFi: Rp 100.000/bulan"
+    ],
+    "peraturan": [
+      "Jam malam berlaku setelah jam 22:00",
+      "Wajib memberitahu jika akan pergi bermalam",
+      "Dilarang keras membawa hewan peliharaan"
+    ],
+    "keunggulan": [
+      "Deket kampus ITB dan Unpad",
+      "Harga bersaing dengan fasilitas premium",
+      "Akses mudah ke transportasi umum"
+    ]
+  },
+  {
+    "id": "realtime-yogyakarta-001",
+    "nama": "Kos Harmoni Campur Sleman",
+    "alamat": "Jl. Kaliurang No. 78, Depok, Sleman, Yogyakarta",
+    "harga": 900000,
+    "jarak_km": 1.2,
+    "fasilitas": [
+      "WiFi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Spring Bed",
+      "Lemari",
+      "Meja Belajar",
+      "Kulkas Mini",
+      "Dapur Bersama",
+      "Deket UGM",
+      "Deket Malioboro"
+    ],
+    "tipe": "Campur",
+    "tersedia": true,
+    "sumber": "Rumah123",
+    "sourceUrl": "https://rumah123.com/kost/harmoni-campur-sleman-yogyakarta-67890",
+    "latitude": -7.7956,
+    "longitude": 110.3695,
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817d7e3ef7?w=800&q=80",
+      "https://images.unsplash.com/photo-1505691938895-60b36390c4de?w=800&q=80"
+    ],
+    "rating": 4.3,
+    "kontak": "6283888888888",
+    "deskripsi": "Kos harmoni campur di kawasan Sleman Yogyakarta. Lingkungan nyaman dan asri, cocok untuk mahasiswa UGM dan karyawan. Harga terjangkau dengan fasilitas lengkap.",
+    "whatsapp": "https://wa.me/6283888888888",
+    "kecamatan": "Depok",
+    "kota": "Sleman",
+    "provinsi": "DI Yogyakarta",
+    "dekat_kampus": [
+      "UGM",
+      "Universitas Islam Indonesia",
+      "Universitas Atma Jaya Yogyakarta"
+    ],
+    "dekat_mall": [
+      "Hartono Mall",
+      "Jogja City Mall",
+      "Ambarrukmo Plaza"
+    ],
+    "dekat_transport": [
+      "Trans Jogja",
+      "Gojek/Grab",
+      "Angkot"
+    ],
+    "biaya_tambahan": [
+      "Listrik: Rp 100.000/bulan",
+      "Air: Rp 50.000/bulan",
+      "WiFi: Rp 100.000/bulan"
+    ],
+    "peraturan": [
+      "Tidak boleh merokok di dalam kamar",
+      "Wajib menjaga kebersihan kamar dan lingkungan",
+      "Dilarang keras membawa tamu tanpa izin"
+    ],
+    "keunggulan": [
+      "Harga terjangkau dengan fasilitas lengkap",
+      "Lingkungan nyaman dan asri",
+      "Deket kampus UGM dan tempat belanja"
+    ]
+  },
+  {
+    "id": "realtime-surabaya-001",
+    "nama": "Kos Premium Putri Surabaya Barat",
+    "alamat": "Jl. Mayjen Sungkono No. 56, Dukuh Pakis, Surabaya Barat",
+    "harga": 1500000,
+    "jarak_km": 3.1,
+    "fasilitas": [
+      "WiFi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Spring Bed",
+      "Lemari",
+      "Meja Belajar",
+      "Smart TV",
+      "CCTV Security",
+      "Akses 24 Jam",
+      "Deket ITS"
+    ],
+    "tipe": "Putri",
+    "tersedia": true,
+    "sumber": "Traveloka",
+    "sourceUrl": "https://traveloka.com/id-id/hotel/detail/kos-premium-putri-surabaya-barat-54321",
+    "latitude": -7.2906,
+    "longitude": 112.7344,
+    "images": [
+      "https://images.unsplash.com/photo-1522771731443-4a6f2d3fbc4c?w=800&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817d7e3ef7?w=800&q=80"
+    ],
+    "rating": 4.8,
+    "kontak": "6285288888888",
+    "deskripsi": "Kos premium putri di kawasan Surabaya Barat. Dilengkapi dengan fasilitas eksklusif dan keamanan 24 jam. Dekat dengan ITS dan berbagai pusat perbelanjaan.",
+    "whatsapp": "https://wa.me/6285288888888",
+    "kecamatan": "Dukuh Pakis",
+    "kota": "Surabaya",
+    "provinsi": "Jawa Timur",
+    "dekat_kampus": [
+      "ITS",
+      "Universitas Airlangga",
+      "Universitas Surabaya"
+    ],
+    "dekat_mall": [
+      "Tunjungan Plaza",
+      "Surabaya Town Square",
+      "Ciputra World"
+    ],
+    "dekat_transport": [
+      "Trans Semanggi Suroboyo",
+      "Gojek/Grab",
+      "Angkot"
+    ],
+    "biaya_tambahan": [
+      "Listrik: Rp 250.000/bulan",
+      "WiFi: Rp 200.000/bulan",
+      "Keamanan: Rp 150.000/bulan",
+      "Kebersihan: Rp 100.000/bulan"
+    ],
+    "peraturan": [
+      "Tidak boleh membawa tamu lawan jenis ke kamar",
+      "Wajib menjaga kebersihan kamar dan lingkungan",
+      "Dilarang keras membawa hewan peliharaan",
+      "Jam malam berlaku setelah jam 22:00"
+    ],
+    "keunggulan": [
+      "Lokasi sangat strategis dekat kampus ITS",
+      "Lingkungan aman dengan CCTV 24 jam",
+      "Fasilitas eksklusif dengan pelayanan premium",
+      "Dikelola oleh pengelola profesional dan ramah"
+    ]
+  },
+  {
+    "id": "sync-1754206454077",
+    "nama": "Kos Update dari Sync",
+    "alamat": "Hasil Pencarian Google - Area Bandung",
+    "harga": 800000,
+    "jarak_km": 2.5,
+    "fasilitas": [
+      "WiFi",
+      "Parkir Motor"
+    ],
+    "tipe": "Campur",
+    "tersedia": true,
+    "sumber": "google-search",
+    "rating": 4
+  }
+]
